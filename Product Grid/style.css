@@ -1,0 +1,42 @@
+#grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    padding: 10px;
+    justify-content: center;
+    grid-gap: 50px;
+    margin: 100px auto;
+}
+.product {
+    width: 200px;
+    height: 300px;
+    border: 3px solid black;
+    
+}
+a {
+    text-decoration: none;
+    color: green;
+    font-size: 18px;
+    font-family: cursive;
+    text-align: center;
+}
+h1 , h2 , p {
+    text-align: center;
+}
+img {
+    display: block;
+    margin: auto;
+    width: 150px;
+    height: 100px;
+}
+ body{
+        background-color:pink;
+}
+h1 
+{
+    font-family: cursive;
+}
+#grid
+{
+max-width:80%;
+
+}

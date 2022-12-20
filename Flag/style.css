@@ -1,0 +1,31 @@
+h1 {
+    text-align: center;
+}
+.flag {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+img {
+    width: 290px;
+    height: 214px;
+}
+.top {
+    height: 214px;
+    width: 510px;
+    border-collapse: collapse;
+}
+.bottom {
+    height: 186px;
+    width: 800px;
+    border-collapse: collapse;
+}
+td {
+    border-collapse: collapse;
+}
+.red {
+    background-color: red;
+}
+.white {
+    background-color: white;
+}
